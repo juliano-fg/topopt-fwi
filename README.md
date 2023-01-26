@@ -1,6 +1,6 @@
 # TopOptFWI 
 
-Full Waveform Inversion (FWI) appoach based on Topology Optimizatin (TO) for the salt reconstruction problem. 
+Full Waveform Inversion (FWI) appoach based on Topology Optimization (TO) for the salt reconstruction problem. 
 
 ## Problem Description
 
