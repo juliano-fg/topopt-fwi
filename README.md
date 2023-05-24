@@ -1,6 +1,6 @@
 # TopOptFWI 
 
-Full Waveform Inversion (FWI) appoach based on Topology Optimization (TO) for the salt reconstruction problem. 
+Full Waveform Inversion (FWI) approach based on Topology Optimization (TO) for the salt reconstruction problem. 
 
 ## Problem Description
 
@@ -176,15 +176,17 @@ Synthetic models taken from [Kadu *et al.* 2016](https://ieeexplore.ieee.org/abs
 If our work is useful for your research, please consider citing:
 
 ```bibtex
-@article{gonccalves2023reconstruction,
+@article{gonccalves2023salt,
   title={Salt reconstruction in full-waveform inversion using topology optimization techniques},
-  author={Gon{\c{c}}alves, Juliano F and Silva, Em{\'\i}lio CN},
+  author={Gon{\c{c}}alves, JF and Silva, ECN},
   journal={Geophysical Journal International},
-  volume={ },
-  number={ },
-  pages={ },
+  volume={234},
+  number={2},
+  pages={1484--1504},
   year={2023},
-  publisher={Oxford University Press}
+  publisher={Oxford University Press},
+  doi={10.1093/gji/ggad150},
+  url={https://doi.org/10.1093/gji/ggad150},
 }
 ```
 
@@ -197,10 +199,12 @@ If our work is useful for your research, please consider citing:
   number={3},
   pages={1041--1059},
   year={2020},
-  publisher={Springer}
+  publisher={Springer},
+  doi={10.1007/s00158-020-02638-9},
+  url={https://doi.org/10.1007/s00158-020-02638-9},
 }
 ```
 
 ## Contact
 
-If you have any questions, please feel free to message the authors: julianofg@usp.br or ecnsilva@usp.br.
+If you have any questions, please feel free to message the authors: Juliano F. Gonçalves (julianofg@usp.br) or Emílio C.N. Silva (ecnsilva@usp.br).
